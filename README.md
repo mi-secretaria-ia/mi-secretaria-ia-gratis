@@ -11,7 +11,7 @@ Claude hace por ti estas tareas en tu ordenador (Mac y Windows) y comprueba que 
 ## Instalar
 
 1. Abre Claude Desktop → Cowork → Personalizar → Plugins.
-2. Añade una tienda (marketplace) desde GitHub y pega: `trincheralibre-dotcom/mi-secretaria-ia-gratis`
+2. Añade una tienda (marketplace) desde GitHub y pega: `mi-secretaria-ia/mi-secretaria-ia-gratis`
 3. Instala **Mi Secretaria IA (Gratis)**.
 4. Escribe, por ejemplo: «Secretaria: instálame VLC» o «Secretaria: mándale un email a Ana desde mi Gmail».
 
@@ -20,6 +20,6 @@ Claude hace por ti estas tareas en tu ordenador (Mac y Windows) y comprueba que 
 ¿Quieres que lo haga TODO?
 
 **Mi Secretaria IA PRO** es tu secretaria total: emails, vídeos para YouTube, publicaciones en Facebook e Instagram, tu tienda Shopify, diseños en Canva, instalar programas y mucho más.
-👉 Suscripción mensual: muy pronto, con el enlace aquí mismo.
+👉 **Suscríbete por 14,99 € al mes:** https://buy.polar.sh/polar_cl_krb6rJ8mts0RwjqSp2KUfUt5xg9FI63WY9QQp18TPOj
 
 Mi Secretaria IA no está afiliada a Anthropic.
