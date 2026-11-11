@@ -1,4 +1,4 @@
-# Hazlo por mí · Gratis
+# Mi Secretaria IA · Gratis
 
 Claude hace por ti estas tareas en tu ordenador (Mac y Windows) y comprueba que han quedado bien:
 
@@ -11,15 +11,15 @@ Claude hace por ti estas tareas en tu ordenador (Mac y Windows) y comprueba que 
 ## Instalar
 
 1. Abre Claude Desktop → Cowork → Personalizar → Plugins.
-2. Añade una tienda (marketplace) desde GitHub y pega: `trincheralibre-dotcom/hazlo-por-mi-gratis`
-3. Instala **Hazlo por mí (Gratis)**.
-4. Escribe, por ejemplo: «Hazlo por mí: instálame VLC» o «Hazlo por mí: libérame espacio».
+2. Añade una tienda (marketplace) desde GitHub y pega: `trincheralibre-dotcom/mi-secretaria-ia-gratis`
+3. Instala **Mi Secretaria IA (Gratis)**.
+4. Escribe, por ejemplo: «Secretaria: instálame VLC» o «Secretaria: mándale un email a Ana desde mi Gmail».
 
-## Hazlo por mí PRO
+## Mi Secretaria IA PRO
 
 ¿Quieres que lo haga TODO?
 
-**Hazlo por mí PRO** es tu secretaria total: emails, vídeos para YouTube, publicaciones en Facebook e Instagram, tu tienda Shopify, diseños en Canva, instalar programas y mucho más.
+**Mi Secretaria IA PRO** es tu secretaria total: emails, vídeos para YouTube, publicaciones en Facebook e Instagram, tu tienda Shopify, diseños en Canva, instalar programas y mucho más.
 👉 Suscripción mensual: muy pronto, con el enlace aquí mismo.
 
-Hazlo por mí no está afiliado a Anthropic.
+Mi Secretaria IA no está afiliada a Anthropic.
