@@ -1,1 +1,17 @@
-{"name":"hazlo-por-mi-gratis","owner":{"name":"Hazlo por mí"},"metadata":{"description":"Hazlo por mí: Claude hace las tareas del ordenador por ti. Versión gratis."},"plugins":[{"name":"hazlo-por-mi-gratis","source":"./plugins/hazlo-por-mi-gratis","description":"Versión gratis: Claude hace por ti 5 encargos en tu ordenador (espacio, instalar programas, ordenar descargas, email y puesta a punto). La PRO es tu secretaria total.","version":"1.0.0"}]}
+{
+  "name": "mi-secretaria-ia-gratis",
+  "owner": {
+    "name": "Mi Secretaria IA"
+  },
+  "metadata": {
+    "description": "Mi Secretaria IA: Claude hace las tareas del ordenador por ti. Versión gratis."
+  },
+  "plugins": [
+    {
+      "name": "mi-secretaria-ia-gratis",
+      "source": "./plugins/mi-secretaria-ia-gratis",
+      "description": "Versión gratis: Claude hace por ti 5 encargos en tu ordenador (espacio, instalar programas, ordenar descargas, email y puesta a punto). La PRO es tu secretaria total.",
+      "version": "1.0.0"
+    }
+  ]
+}
