@@ -1,0 +1,19 @@
+{
+  "name": "mi-secretaria-ia-gratis",
+  "displayName": "Mi Secretaria IA (Gratis)",
+  "version": "1.0.0",
+  "description": "Versión gratis: Claude hace por ti 5 encargos en tu ordenador (espacio, instalar programas, ordenar descargas, email y puesta a punto). La PRO es tu secretaria total.",
+  "author": {
+    "name": "Mi Secretaria IA"
+  },
+  "homepage": "https://github.com/trincheralibre-dotcom/mi-secretaria-ia-gratis#mi-secretaria-ia-pro",
+  "license": "Uso personal gratuito",
+  "keywords": [
+    "español",
+    "asistente",
+    "ordenador",
+    "espacio",
+    "instalar",
+    "email"
+  ]
+}
