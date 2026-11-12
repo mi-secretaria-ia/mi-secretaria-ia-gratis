@@ -20,6 +20,13 @@ Claude hace por ti estas tareas en tu ordenador (Mac y Windows) y comprueba que 
 ¿Quieres que lo haga TODO?
 
 **Mi Secretaria IA · Modo Dios** es tu secretaria total: emails, vídeos para YouTube, publicaciones en Facebook e Instagram, tu tienda Shopify, diseños en Canva, instalar programas y mucho más.
-👉 **Suscríbete por 14,99 € al mes:** https://buy.polar.sh/polar_cl_krb6rJ8mts0RwjqSp2KUfUt5xg9FI63WY9QQp18TPOj
+
+| Plan | Precio | Ordenadores | Suscríbete |
+|---|---|---|---|
+| **Modo Dios** | 14,99 €/mes | 1 | https://buy.polar.sh/polar_cl_krb6rJ8mts0RwjqSp2KUfUt5xg9FI63WY9QQp18TPOj |
+| **Equipo** | 50 €/mes | 5 | https://buy.polar.sh/polar_cl_LHvM7bLVSmI2LBXQ71RKYtPqgvbuf4rmBV4oj49orCJ |
+| **Empresas** | A medida | Más de 5 | Escríbenos en https://github.com/mi-secretaria-ia/mi-secretaria-ia-gratis/issues |
+
+Cada licencia funciona en el número de ordenadores contratado. Si la suscripción no se renueva, deja de funcionar a los 3 días.
 
 Mi Secretaria IA no está afiliada a Anthropic.
