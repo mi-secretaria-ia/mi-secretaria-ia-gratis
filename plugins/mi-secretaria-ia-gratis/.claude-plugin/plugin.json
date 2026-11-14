@@ -1,7 +1,7 @@
 {
   "name": "mi-secretaria-ia-gratis",
   "displayName": "Mi Secretaria IA (Gratis)",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Versión gratis: Claude hace por ti 5 encargos en tu ordenador (espacio, instalar programas, ordenar descargas, email y puesta a punto). La PRO es tu secretaria total.",
   "author": {
     "name": "Mi Secretaria IA"
