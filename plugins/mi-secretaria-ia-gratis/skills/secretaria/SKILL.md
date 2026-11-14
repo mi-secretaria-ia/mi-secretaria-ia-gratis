@@ -1,6 +1,6 @@
 ---
 name: secretaria
-description: Versión gratuita de «Mi Secretaria IA». Hace por el usuario, en Mac o Windows, cinco encargos básicos y los comprueba: liberar espacio, instalar un programa, ordenar la carpeta de Descargas, enviar un email sencillo y poner a punto el ordenador. Úsala ante peticiones como «secretaria», «hazlo por mí», «libérame espacio», «instálame…», «ordena mis descargas», «envía un email» o «el ordenador va lento».
+description: "Versión gratuita de «Mi Secretaria IA». Hace por el usuario, en Mac o Windows, cinco encargos básicos y los comprueba: liberar espacio, instalar un programa, ordenar la carpeta de Descargas, enviar un email sencillo y poner a punto el ordenador. Úsala ante peticiones como «secretaria», «hazlo por mí», «libérame espacio», «instálame…», «ordena mis descargas», «envía un email» o «el ordenador va lento»."
 ---
 
 # Mi Secretaria IA · Gratis

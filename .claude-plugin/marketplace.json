@@ -11,7 +11,7 @@
       "name": "mi-secretaria-ia-gratis",
       "source": "./plugins/mi-secretaria-ia-gratis",
       "description": "Versión gratis: Claude hace por ti 5 encargos en tu ordenador (espacio, instalar programas, ordenar descargas, email y puesta a punto). La PRO es tu secretaria total.",
-      "version": "1.0.0"
+      "version": "1.0.1"
     }
   ]
 }
