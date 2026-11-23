@@ -23,7 +23,8 @@ Claude hace por ti estas tareas en tu ordenador (Mac y Windows) y comprueba que 
 
 | Plan | Precio | Ordenadores | Suscríbete |
 |---|---|---|---|
-| **Modo Dios** | 14,99 €/mes | 1 | https://buy.polar.sh/polar_cl_krb6rJ8mts0RwjqSp2KUfUt5xg9FI63WY9QQp18TPOj |
+| **Modo Dios** | 9,99 €/mes | 1 | https://buy.polar.sh/polar_cl_krb6rJ8mts0RwjqSp2KUfUt5xg9FI63WY9QQp18TPOj |
+| **Modo Dios anual** | 99 €/año (2 meses gratis) | 1 | https://buy.polar.sh/polar_cl_zXDibtKMXwpaJghaC22yplkcMmjbwyAQb7HY600VeR5 |
 | **Equipo** | 50 €/mes | 5 | https://buy.polar.sh/polar_cl_LHvM7bLVSmI2LBXQ71RKYtPqgvbuf4rmBV4oj49orCJ |
 | **Empresas** | A medida | Más de 5 | Escríbenos en https://github.com/mi-secretaria-ia/mi-secretaria-ia-gratis/issues |
 
