@@ -1,17 +1,17 @@
 {
   "name": "mi-secretaria-ia-gratis",
   "owner": {
-    "name": "Mi Secretaria IA"
+    "name": "Secretaria, hazlo por mí"
   },
   "metadata": {
-    "description": "Mi Secretaria IA: Claude hace las tareas del ordenador por ti. Versión gratis."
+    "description": "Secretaria, hazlo por mí: Claude hace las tareas del ordenador por ti. Versión gratis."
   },
   "plugins": [
     {
       "name": "mi-secretaria-ia-gratis",
       "source": "./plugins/mi-secretaria-ia-gratis",
       "description": "Versión gratis: Claude hace por ti 5 encargos en tu ordenador (espacio, instalar programas, ordenar descargas, email y puesta a punto). La PRO es tu secretaria total.",
-      "version": "1.1.0"
+      "version": "1.2.0"
     }
   ]
 }

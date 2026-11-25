@@ -1,4 +1,4 @@
-# Mi Secretaria IA · Gratis
+# Secretaria, hazlo por mí · Gratis
 
 Claude hace por ti estas tareas en tu ordenador (Mac y Windows) y comprueba que han quedado bien:
 
@@ -12,14 +12,14 @@ Claude hace por ti estas tareas en tu ordenador (Mac y Windows) y comprueba que 
 
 1. Abre Claude Desktop → Cowork → Personalizar → Plugins.
 2. Añade una tienda (marketplace) desde GitHub y pega: `mi-secretaria-ia/mi-secretaria-ia-gratis`
-3. Instala **Mi Secretaria IA (Gratis)**.
+3. Instala **Secretaria, hazlo por mí (Gratis)**.
 4. Escribe, por ejemplo: «Secretaria: instálame VLC» o «Secretaria: mándale un email a Ana desde mi Gmail».
 
-## Mi Secretaria IA · Modo Dios
+## Secretaria, hazlo por mí · Modo Dios
 
 ¿Quieres que lo haga TODO?
 
-**Mi Secretaria IA · Modo Dios** es tu secretaria total: emails, vídeos para YouTube, publicaciones en Facebook e Instagram, tu tienda Shopify, diseños en Canva, instalar programas y mucho más.
+**Secretaria, hazlo por mí · Modo Dios** es tu secretaria total: emails, vídeos para YouTube, publicaciones en Facebook e Instagram, tu tienda Shopify, diseños en Canva, instalar programas y mucho más.
 
 | Plan | Precio | Ordenadores | Suscríbete |
 |---|---|---|---|
@@ -30,4 +30,4 @@ Claude hace por ti estas tareas en tu ordenador (Mac y Windows) y comprueba que 
 
 Cada licencia funciona en el número de ordenadores contratado. Si la suscripción no se renueva, deja de funcionar a los 3 días.
 
-Mi Secretaria IA no está afiliada a Anthropic.
+Secretaria, hazlo por mí no está afiliada a Anthropic.
