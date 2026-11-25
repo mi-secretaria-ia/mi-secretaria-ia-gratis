@@ -1,5 +1,5 @@
 #!/bin/sh
-# Aviso de Secretaria, hazlo por mí al abrir Claude. La primera vez abre la pantalla de bienvenida.
+# Aviso de Hazlo por mí al abrir Claude. La primera vez abre la pantalla de bienvenida.
 DIR="$HOME/Documents/Mi Secretaria IA"
 MARCA="$DIR/.modo-dios-activado"
 RAIZ="${CLAUDE_PLUGIN_ROOT:-$(cd "$(dirname "$0")/.." && pwd)}"
@@ -14,8 +14,8 @@ if [ ! -f "$MARCA" ]; then
       cmd.exe /c start "" "$W" >/dev/null 2>&1
     fi
   fi
-  printf '%s\n' '{"systemMessage": "✅ Secretaria, hazlo por mí (Gratis) conectada. Escribe «Secretaria, hola» para empezar. Instrucciones: https://mi-secretaria-ia.github.io/instrucciones.html"}'
+  printf '%s\n' '{"systemMessage": "✅ Hazlo por mí (Gratis) conectada. Escribe «Secretaria, hola» para empezar. Instrucciones: https://mi-secretaria-ia.github.io/instrucciones.html"}'
 else
-  printf '%s\n' '{"systemMessage": "✅ Secretaria, hazlo por mí (Gratis) lista. Empieza con «Secretaria, …»"}'
+  printf '%s\n' '{"systemMessage": "✅ Hazlo por mí (Gratis) lista. Empieza con «Secretaria, …»"}'
 fi
 exit 0
